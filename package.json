@@ -32,7 +32,7 @@
     "eslint-plugin-react": "^7.19.0",
     "html-webpack-plugin": "^3.2.0",
     "koa-swig": "^2.2.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "nodemon": "^2.0.2",
     "postcss-loader": "^3.0.0",
     "redux-logger": "^3.0.6",
